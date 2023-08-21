@@ -1,3 +1,3 @@
 # AVTR Landing page
 
-https://saurier.github.io/
+GitHub Pages: https://saurier.github.io/
